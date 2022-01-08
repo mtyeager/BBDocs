@@ -16,4 +16,7 @@ Contents
    introduction
    connect
    pattern-libraries
+   pattern-designer
+   shot-designer
+   core-controller
    

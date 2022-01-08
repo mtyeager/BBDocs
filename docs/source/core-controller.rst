@@ -19,11 +19,27 @@ Stop
 .. select:
 Select
 ^^^^^^
+.. reboot:
+Reboot
+^^^^^^
+.. reload:
+Reload
+^^^^^^
+.. delay:
+Delay
+^^^^^
+.. Locate:
+Locate
+^^^^^^
+
+.. alternate-controllers:
+Alternate Controllers
+---------------------
 
 .. correct-drift:
 
 Correct-Drift
-------------
+-------------
 
 .. settings:
 

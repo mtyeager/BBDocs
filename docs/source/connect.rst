@@ -1,9 +1,9 @@
 Connect
 =====
 
-.. _installation:
+.. introduction:
 
-Installation
+Introduction
 ------------
 
 The BallBOPPer App is not yet publicly available. 

@@ -11,7 +11,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
+   install
+   support
    connect
-   pattern libraries
+   pattern-libraries
    

@@ -1,4 +1,4 @@
-Usage
+Connect
 =====
 
 .. _installation:

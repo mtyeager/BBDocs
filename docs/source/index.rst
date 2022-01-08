@@ -12,5 +12,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   connect
+   pattern libraries
+   

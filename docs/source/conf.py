@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BallBOPPer'
+copyright = '2021, RoBOPPics'
+author = 'RoBOPPics'
 
 release = '0.1'
 version = '0.1.0'

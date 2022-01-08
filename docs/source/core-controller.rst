@@ -7,10 +7,18 @@ There are three sections.
 
 Controller
 ------------
-... play:
-... pause:
-... stop:
-... select:
+.. play:
+Play
+^^^^
+.. pause:
+Pause
+^^^^^
+.. stop:
+Stop
+^^^^
+.. select:
+Select
+^^^^^^
 
 .. correct-drift:
 

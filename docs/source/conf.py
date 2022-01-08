@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'BallBOPPer'
-copyright = '2021, RoBOPPics'
+copyright = '2022, RoBOPPics'
 author = 'RoBOPPics'
 
 release = '0.1'

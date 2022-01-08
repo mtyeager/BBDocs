@@ -36,6 +36,12 @@ Locate
 Alternate Controllers
 ---------------------
 
+Voice Controller using Headset
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rover Manual Controller
+^^^^^^^^^^^^^^^^^^^^^^^
+
 .. correct-drift:
 
 Correct-Drift

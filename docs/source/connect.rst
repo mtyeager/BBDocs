@@ -4,7 +4,7 @@ Connect
 In order to connect to your BallBOPPer robot.
 
 .. image:: images/Connect500.png
-  :scale: 50 %
+  :height: 100px
 
 .. loginonly:
 

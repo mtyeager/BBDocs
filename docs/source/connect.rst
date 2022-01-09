@@ -16,9 +16,9 @@ You then have two options: Log In Only, and Log In and Connect.
 Log In Only
 ------------
 
-"Log in Only" lets you log in, using your Username and Password, without connecting to your BallBOPPer. 
-
 You can create your Username and Password on the RoBOPPics site. 
+
+"Log in Only" lets you log in, using your Username and Password, without connecting to your BallBOPPer. 
 
 This allows you to create and edit your Drills, Patterns and Playlists from whereever you want: at home, on the train, or during a break at work. 
 

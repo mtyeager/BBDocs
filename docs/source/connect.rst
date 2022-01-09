@@ -29,8 +29,8 @@ Log In and Connect
 
 "Log in and Connect" is for when you are on-court and ready to play. 
 
-You will need your Username and Password, along with the name of your BallBOPPer and the ID for your BallBOPPer.
+You will need your Username and Password, along with the name of your BallBOPPer and the Key for your BallBOPPer.
 
-The name and ID of your BallBOPPer will be shown in the User Manual that you recieve with your BallBOPPer.
+The name and Key of your BallBOPPer will be shown in the User Manual that you recieve with your BallBOPPer.
 
 After you enter this information once, it will be remembered by the App. The only time you will need to reenter it is when you change phones, or reinstall the App.

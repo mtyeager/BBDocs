@@ -15,21 +15,13 @@ If you are in agreement with the Privacy Policy and Terms and Conditions, then c
 Login Page
 ------------
 
-You can create your Username and Password on the RoBOPPics site. 
+The first time you arrive at the login page, you will need to create an account. Click on "Sign up now".
 
-"Log in Only" lets you log in, using your Username and Password, without connecting to your BallBOPPer. 
+After you create your account, enter your Email Address and Password to log in.
 
-This allows you to create and edit your Drills, Patterns and Playlists from whereever you want: at home, on the train, or during a break at work. 
+After confirming your email address, you will need to enter your phone number in order to recieve a confirmation text.
 
-.. loginandconnect:
+.. image:: images/Login500.jpg
+ :scale: 50 %
 
-Log In and Connect
-------------------
-
-"Log in and Connect" is for when you are on-court and ready to play. 
-
-You will need your Username and Password, along with the name of your BallBOPPer and the Key for your BallBOPPer.
-
-The name and Key of your BallBOPPer will be shown in the User Manual that you recieve with your BallBOPPer.
-
-After you enter this information once, it will be remembered by the App. The only time you will need to reenter it is when you change phones, or reinstall the App.
+By checking the "Keep me signed in" box, you will only rarely need to sign in. Most of the time you will be logged in automatically.

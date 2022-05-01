@@ -8,7 +8,7 @@ When you first launch the BallBOPPer, you will see the alert shown below indicat
  
 You then have two options: Log In Only, and Log In and Connect.
 
-.. image:: images/Prelogin.jpg
+.. image:: images/Prelogin500.jpg
  :scale: 50 %
  
 .. loginonly:

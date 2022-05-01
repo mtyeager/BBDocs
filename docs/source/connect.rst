@@ -1,19 +1,18 @@
-Connect
+Privacy Policy, and Terms and Conditions
 =====
 
-When you first launch the BallBOPPer, you will see the alert shown below indicating that you are not currently connected to your BallBOPPer. 
+When you first launch the BallBOPPer app, you will be presented with the following page.
 
-.. image:: images/ConnectAlert500.png
- :scale: 50 %
- 
-You then have two options: Log In Only, and Log In and Connect.
+Clicking on the Privacy Policy and Terms and Conditions buttons will open these documents in a browser for you to read.
+
+If you are in agreement with the Privacy Policy and Terms and Conditions, then check the box. Then click on the Login button.
 
 .. image:: images/Prelogin500.jpg
  :scale: 50 %
  
-.. loginonly:
+.. loginpage:
 
-Log In Only
+Login Page
 ------------
 
 You can create your Username and Password on the RoBOPPics site. 

@@ -24,4 +24,4 @@ After confirming your email address, you will need to enter your phone number in
 .. image:: images/Login500.jpg
  :scale: 50 %
 
-By checking the "Keep me signed in" box, you will only rarely need to sign in. Most of the time you will be logged in automatically.
+By checking the "Keep me signed in" box, you will not be required to login on your device for up to 90 days.
